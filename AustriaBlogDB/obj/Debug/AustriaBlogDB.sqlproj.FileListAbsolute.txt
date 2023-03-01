@@ -1,0 +1,10 @@
+C:\Users\LEGIONRED\Documents\Mapua 2nd Year\Term 3\IT128L\Visual Studio Community Edition\LE2\AustriaLE2\AustriaBlogDB\bin\Debug\AustriaBlogDB.dacpac
+C:\Users\LEGIONRED\Documents\Mapua 2nd Year\Term 3\IT128L\Visual Studio Community Edition\LE2\AustriaLE2\AustriaBlogDB\bin\Debug\AustriaBlogDB.dll
+C:\Users\LEGIONRED\Documents\Mapua 2nd Year\Term 3\IT128L\Visual Studio Community Edition\LE2\AustriaLE2\AustriaBlogDB\bin\Debug\AustriaBlogDB.pdb
+C:\Users\LEGIONRED\Documents\Mapua 2nd Year\Term 3\IT128L\Visual Studio Community Edition\LE2\AustriaLE2\AustriaBlogDB\obj\Debug\AustriaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\LEGIONRED\Documents\Mapua 2nd Year\Term 3\IT128L\Visual Studio Community Edition\LE2\AustriaLE2\AustriaBlogDB\obj\Debug\Model.xml
+C:\Users\LEGIONRED\Documents\Mapua 2nd Year\Term 3\IT128L\Visual Studio Community Edition\LE2\AustriaLE2\AustriaBlogDB\obj\Debug\refactor.xml
+C:\Users\LEGIONRED\Documents\Mapua 2nd Year\Term 3\IT128L\Visual Studio Community Edition\LE2\AustriaLE2\AustriaBlogDB\obj\Debug\postdeploy.sql
+C:\Users\LEGIONRED\Documents\Mapua 2nd Year\Term 3\IT128L\Visual Studio Community Edition\LE2\AustriaLE2\AustriaBlogDB\obj\Debug\predeploy.sql
+C:\Users\LEGIONRED\Documents\Mapua 2nd Year\Term 3\IT128L\Visual Studio Community Edition\LE2\AustriaLE2\AustriaBlogDB\obj\Debug\AustriaBlogDB.dll
+C:\Users\LEGIONRED\Documents\Mapua 2nd Year\Term 3\IT128L\Visual Studio Community Edition\LE2\AustriaLE2\AustriaBlogDB\obj\Debug\AustriaBlogDB.pdb
